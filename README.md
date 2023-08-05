@@ -1,2 +1,2 @@
-# btca-file-upload-demo
+# file-upload-demo
 Demo de càrrega de fitxers per a BTC Assessors
